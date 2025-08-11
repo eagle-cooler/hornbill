@@ -1,20 +1,7 @@
 name: eagle_org_layer
 description: "A compatibility layer to integrate with eagle file manager"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/zackaryw/hornbill
 
 environment:
   sdk: ^3.8.1
-  flutter: ">=1.17.0"
-
-dependencies:
-  flutter:
-    sdk: flutter
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^5.0.0
-
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
