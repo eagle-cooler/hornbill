@@ -1,7 +1,7 @@
 name: eagle_org_layer
 description: "A compatibility layer to integrate with eagle file manager"
-version: 0.0.2
-homepage: https://github.com/zackaryw/hornbill
+version: 0.0.3
+homepage: https://github.com/eagle-cooler/hornbill
 
 environment:
   sdk: ^3.8.1
