@@ -55,18 +55,6 @@ This package serves as the foundation for building applications that can:
 - Enable custom file organization workflows
 - Build collaborative asset management tools
 
-## Development
-
-```bash
-# Get dependencies
-flutter pub get
-
-# Run tests
-flutter test
-
-# Test with a real Eagle library
-dart run lib/main.dart /path/to/eagle/library
-```
 
 ## License
 
